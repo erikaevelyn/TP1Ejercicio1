@@ -1,0 +1,11 @@
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\bin\Debug\netcoreapp2.1\EJERCICIO 1.deps.json
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\bin\Debug\netcoreapp2.1\EJERCICIO 1.runtimeconfig.json
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\bin\Debug\netcoreapp2.1\EJERCICIO 1.runtimeconfig.dev.json
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\bin\Debug\netcoreapp2.1\EJERCICIO 1.dll
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\bin\Debug\netcoreapp2.1\EJERCICIO 1.pdb
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.csprojAssemblyReference.cache
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.csproj.CoreCompileInputs.cache
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.AssemblyInfoInputs.cache
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.AssemblyInfo.cs
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.dll
+C:\Users\Intel i5\Desktop\UTN\TP 1\EJERCICIO 1\obj\Debug\netcoreapp2.1\EJERCICIO 1.pdb
